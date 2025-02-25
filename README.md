@@ -40,8 +40,8 @@ This will:
 ### Step 2: Check Log Files for Results
 After execution, logs will be saved in the **logs** directory. You can check:
 - **`main.log`** → Overall execution logs
-- **`Task_1.log`** → Logs for data generation
-- **`Task_2.log`** → Logs for data analysis
+- **`Flight_data.log`** → Logs for data generation
+- **`result.log`** → Logs for data analysis result
 
 To view logs:
 ```bash
